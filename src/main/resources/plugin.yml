@@ -1,0 +1,5 @@
+name: MobApocalypse
+version: '1.0'
+main: org.doughston.mobApocalypse.MobApocalypse
+api-version: '1.21'
+authors: [ doughston ]
